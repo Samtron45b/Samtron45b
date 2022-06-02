@@ -1,6 +1,6 @@
 ### Hello everyone, I'm [Samtron][facebook] 👋
 
-### I'm a sophomore IT student
+### I'm a third-year IT student
 - 🎓 I'm currently studying at University of science HCM
 - I'm learning a lot about C/C++, python, HTML + CSS + JS mostly C++
 - I'm working on my English 🤣
